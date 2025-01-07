@@ -95,8 +95,8 @@ main {
 
 section {
   flex: 1 1 calc(20% - 20px); /* 5 columns with space */
-  background: #fff;
-  border: 1px solid #ddd;
+  background: ##000000;
+  border: 1px solid ##000000;
   border-radius: 5px;
   padding: 10px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
