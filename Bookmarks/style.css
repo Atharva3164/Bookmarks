@@ -128,3 +128,7 @@ footer {
 .content {
   margin-top: 12px;
 }
+
+a:hover {
+  color: red; /* Color when hovered */
+}
